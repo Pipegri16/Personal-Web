@@ -13,13 +13,13 @@ body {
 header {
     background: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
 }
 
 /* Contenedor para limitar el ancho del contenido */
 .container {
-    width: 80%;
+    width: 100%;
     margin: auto;
     overflow: hidden;
 }
@@ -34,7 +34,7 @@ header {
 
     /* Estilos de la imagen */
 .header-image {
-    max-width: 20%; /* Ajusta el tamaño de la imagen dentro del contenedor */
+    max-width: 5%; /* Ajusta el tamaño de la imagen dentro del contenedor */
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 60px;
 }
@@ -76,7 +76,7 @@ footer {
     background: #333;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 1px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
